@@ -1,4 +1,4 @@
-## Hi There, Welcome 👋
+Welcome there 👋
 
 ### ABOUT ME
 * I am computer engineering student.
