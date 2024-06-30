@@ -11,8 +11,8 @@
 3) <b>Bandırma Onyedi Eylül University &emsp;&emsp; Computer Engineering</b> &emsp;(Third Year) (Now)
 
 ### ABILITIES
-1) <b>Asp.net Core Web API</b> (RESTful API)
-2) <b>Asp.net Core MVC</b>
+1) <b>Asp.Net Core Web API</b> (RESTful API)
+2) <b>Asp.Net Core MVC</b>
 3) <b>Microsoft Sql Server (MSSQL)</b>
 4) <b>JavaScript</b>
 5) <b>jQuery</b>
