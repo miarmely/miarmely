@@ -6,9 +6,9 @@
   and i am currently improving myself further on these fields.
 
 ### EDUCATIONS
-1) <b>Konya Necmettin Erbakan University &ensp; Computer Engineering </b> &emsp;(First Year)
-2) <b>Kütahya Dumlupınar University &emsp;&emsp;&emsp; Computer Engineering</b> &emsp;(Second Year)
-3) <b>Bandırma Onyedi Eylül University &emsp;&emsp; Computer Engineering</b> &emsp;(Third Year) (Now)
+1) <b>Konya Necmettin Erbakan University / Turkey &ensp; Computer Engineering </b> &emsp;(First Year)
+2) <b>Kütahya Dumlupınar University / Turkey &emsp;&emsp;&emsp; Computer Engineering</b> &emsp;(Second Year)
+3) <b>Bandırma Onyedi Eylül University / Turkey &emsp;&emsp; Computer Engineering</b> &emsp;(Third Year) (Now)
 
 ### ABILITIES
 1) <b>Asp.Net Core Web API</b> (RESTful API)
