@@ -1,7 +1,5 @@
 # Welcome there 👋
 
-<img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" width="400px" height="250px">
-
 ### ABOUT ME
 * I am computer engineering student who stutied at 3 different school.
 * I am Mid Full Stack Developer with have 1 - 1.5 year of full-time and part-time working experience in a software company in the fields that i mentioned under the "ABILITIES" title
