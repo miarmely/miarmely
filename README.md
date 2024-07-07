@@ -13,7 +13,7 @@
 ### ABILITIES
 1) <b>Asp.Net Core Web API</b> (RESTful API)
 2) <b>Asp.Net Core MVC</b>
-3) <b>Microsoft Sql Server (MSSQL)</b>
+3) <b>Microsoft Sql Server</b> (MSSQL)
 4) <b>JavaScript</b>
 5) <b>jQuery</b>
 6) <b>Html</b>
