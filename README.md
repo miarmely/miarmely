@@ -1,7 +1,7 @@
 # Welcome there 👋
 
 ### ABOUT ME
-* I am computer engineering student who stutied at 3 different school.
+* I am computer engineering student who studied at 3 different school.
 * I am Mid Full Stack Developer with have 2 year of full-time and remote + part-time working experience in software companies in the fields that i mentioned under the "ABILITIES" title
   and i am currently improving myself further on these fields.
 
