@@ -1,11 +1,9 @@
 # Welcome there 👋
 
 ### ABOUT ME:
-* I am "computer engineering" student who studied at 3 different school.
-* I have 1.5+ year working experience as "full-time" and "part-time + remote"
-* I am "Web Full Stack Developer" with have 1.5+ year of "full-time" and "part-time + remote"
-* working experiences in software companies in the fields which i mentioned under the "ABILITIES" title.
-* I am currently improving myself further in the field "Web Full Stack Development".
+* I am "Computer Engineering" student who have studied at 3 different school.
+* I have 1.5+ year working experience at software companies in the areas which i mentioned under the "ABILITIES" title.
+* I am currently improving myself further on "Web Full Stack Development".
 
 ### EDUCATIONS:
 1) Konya Necmettin Erbakan University / Turkey &nbsp;&nbsp; Computer Engineering &emsp; 1st Class
