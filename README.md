@@ -1,7 +1,7 @@
 # No fancy words, no imitiation here just originality, reality and creativity. Welcome... 👋
 
 ### ABOUT ME:
-* I am "Computer Engineering" student who have studied at "3" different school and have "3.8 ECTS".
+* I was "Computer Engineering" student who have studied at "3" different school and have "3.8 ECTS".
 * I have 2+ year working experience at software companies(Saran Holding, Most Idea, ...) in the areas which i mentioned under the "ABILITIES" title.
 
 ### EDUCATIONS:
