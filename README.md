@@ -2,7 +2,7 @@
 
 ### ABOUT ME:
 * I was "Computer Engineering" student who have studied at "3" different school and have "3.8 ECTS".
-* I have 2+ year working experience at software companies(Saran Holding, Most Idea, ...) in the areas which i mentioned under the "ABILITIES" title.
+* I have 2+ years working experiences at software companies(Saran Holding, Most Idea, ...) in the areas which i mentioned under the "ABILITIES" title.
 
 ### EDUCATIONS:
 1) Konya Necmettin Erbakan University / Turkey &nbsp;&nbsp; Computer Engineering &emsp; 1st Class
