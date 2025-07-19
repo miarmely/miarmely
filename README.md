@@ -2,6 +2,7 @@
 
 ### ABOUT ME:
 * I was "Computer Engineering" student who have studied at "3" different school and have "3.8 ECTS".
+* I did my internships at "Saran Holding" for 2 months.
 * I have 2+ years working experiences at software companies(Saran Holding, Most Idea, ...) in the areas which i mentioned under the "ABILITIES" title.
 
 ### EDUCATIONS:
