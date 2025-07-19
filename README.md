@@ -1,22 +1,22 @@
 # Welcome there 👋
 
 ### ABOUT ME:
-* I am "Computer Engineering" student who have studied at 3 different school.
+* I am "Computer Engineering" student who have studied at 3 different school and have 3.8 ECTS.
 * I have 1.5+ year working experience at software companies in the areas which i mentioned under the "ABILITIES" title.
 * I am currently improving myself further on "Web Full Stack Development".
 
 ### EDUCATIONS:
 1) Konya Necmettin Erbakan University / Turkey &nbsp;&nbsp; Computer Engineering &emsp; 1st Class
 2) Kutahya Dumlupinar University / Turkey &emsp;&emsp;&ensp;&nbsp;&nbsp; Computer Engineering &emsp; 2nd Class
-3) Bandirma Onyedi Eylul University / Turkey &emsp;&emsp; Computer Engineering &emsp; 3rd and 4th Classes (Continues...)
+3) Bandirma Onyedi Eylul University / Turkey &emsp;&emsp; Computer Engineering &emsp; 3rd and 4th Classes
 
 ### ABILITIES: 
 #### &emsp; BACKEND:
 ##### &emsp;&emsp;&ensp; .NET:
-&emsp;&emsp;&emsp;&emsp;&ensp; * Asp.Net Core Web MVC &emsp;&emsp;&emsp;&emsp;&nbsp; Level: <b>8.5 / 10</b> <br>
-&emsp;&emsp;&emsp;&emsp;&ensp; * Asp.Net Core Web API &emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp; Level: <b>8.5 / 10</b> <br>
-&emsp;&emsp;&emsp;&emsp;&ensp; * Swagger &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; Level: <b>8.5 / 10</b> <br>
-&emsp;&emsp;&emsp;&emsp;&ensp; * IIS Server &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp; Level: <b>8 / 10</b> <br>
+&emsp;&emsp;&emsp;&emsp;&ensp; * Asp.Net Core Web MVC &emsp;&emsp;&emsp;&emsp;&nbsp; Level: <b>9 / 10</b> <br>
+&emsp;&emsp;&emsp;&emsp;&ensp; * Asp.Net Core Web API &emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp; Level: <b>9 / 10</b> <br>
+&emsp;&emsp;&emsp;&emsp;&ensp; * Swagger &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; Level: <b>9/ 10</b> <br>
+&emsp;&emsp;&emsp;&emsp;&ensp; * IIS Server &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;&nbsp; Level: <b>8.5 / 10</b> <br>
 
 ##### &emsp;&emsp;&ensp; NODE.JS:
 &emsp;&emsp;&emsp;&emsp;&ensp; * Node.js &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp; Level: <b>8 / 10</b> <br>
