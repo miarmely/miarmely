@@ -11,7 +11,7 @@
 
 ### ABILITIES: 
 #### &emsp; BACKEND:
-&emsp;&emsp;&ensp; * Asp.Net Core Web MVC and Web API <br>
+&emsp;&emsp;&ensp; * .NET Core <br>
 &emsp;&emsp;&ensp; * Node.js <br>
 &emsp;&emsp;&ensp; * Express.js <br>
 &emsp;&emsp;&ensp; * TypeScript <br>
