@@ -11,13 +11,10 @@
 
 ### ABILITIES: 
 #### &emsp; BACKEND:
-&emsp;&emsp;&ensp; * Asp.Net Core Web MVC <br>
-&emsp;&emsp;&ensp; * Asp.Net Core Web API <br>
+&emsp;&emsp;&ensp; * Asp.Net Core Web MVC and Web API <br>
 &emsp;&emsp;&ensp; * Node.js <br>
 &emsp;&emsp;&ensp; * Express.js <br>
 &emsp;&emsp;&ensp; * TypeScript <br>
-&emsp;&emsp;&ensp; * Postman <br>
-&emsp;&emsp;&ensp; * RabbitMQ <br>
 
 #### &emsp; FRONTEND:
 &emsp;&emsp;&ensp; * HTML <br>
