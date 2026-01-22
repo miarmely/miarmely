@@ -14,13 +14,14 @@
 &emsp;&emsp;&ensp; * .NET Core <br>
 &emsp;&emsp;&ensp; * Node.js <br>
 &emsp;&emsp;&ensp; * Express.js <br>
-&emsp;&emsp;&ensp; * TypeScript <br>
 
 #### &emsp; FRONTEND:
-&emsp;&emsp;&ensp; * HTML <br>
-&emsp;&emsp;&ensp; * CSS <br>
+&emsp;&emsp;&ensp; * React.js <br>
+&emsp;&emsp;&ensp; * TypeScript <br>
 &emsp;&emsp;&ensp; * JavaScript <br>
 &emsp;&emsp;&ensp; * JQuery <br>
+&emsp;&emsp;&ensp; * HTML <br>
+&emsp;&emsp;&ensp; * CSS <br>
 
 #### &emsp; DATABASE:
 &emsp;&emsp;&ensp; * Microsoft Sql Server (MSSQL) <br>
