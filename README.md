@@ -1,6 +1,7 @@
 # Welcome Dear... 👋
 
 ### ABOUT ME:
+* I have 5+ years(2+ years professional) software experiences.
 * I have been "Computer Engineering" student who have studied at "3" different school and have "3.8 ECTS".
 
 ### EDUCATIONS:
@@ -8,7 +9,7 @@
 2) Kutahya Dumlupinar University / Turkey &emsp;&emsp;&ensp;&nbsp;&nbsp; Computer Engineering
 3) Bandirma Onyedi Eylul University / Turkey &emsp;&emsp; Computer Engineering
 
-### ABILITIES: 
+### MAIN ABILITIES: 
 #### &emsp; BACKEND:
 &emsp;&emsp;&ensp; * .NET Core <br>
 &emsp;&emsp;&ensp; * Node.js <br>
