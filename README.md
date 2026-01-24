@@ -1,7 +1,7 @@
 # Welcome Dear... 👋
 
 ### ABOUT ME:
-* I have 5+ years(2+ years professional) software experiences. (Last Update: 2026)
+* I have 4+ years(2+ years professional) software experiences. (Last Update: 2026)
 * I have been "Computer Engineering" student who have studied at "3" different school and have "3.8 ECTS".
 
 ### EDUCATIONS:
