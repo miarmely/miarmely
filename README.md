@@ -24,7 +24,7 @@
 &emsp;&emsp;&ensp; * CSS <br>
 
 #### &emsp; DATABASE:
-&emsp;&emsp;&ensp; * Microsoft Sql Server (MSSQL) <br>
+&emsp;&emsp;&ensp; * Microsoft SQL Server (MSSQL) <br>
 &emsp;&emsp;&ensp; * MongoDB <br>
 
 #### &emsp; DEVOPS:
