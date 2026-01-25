@@ -29,5 +29,6 @@
 
 #### &emsp; DEVOPS:
 &emsp;&emsp;&ensp; * Docker <br>
+&emsp;&emsp;&ensp; * Coolify <br>
+&emsp;&emsp;&ensp; * Hetzner <br>
 &emsp;&emsp;&ensp; * IIS Server <br> 
-&emsp;&emsp;&ensp; * Jira <br>
