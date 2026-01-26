@@ -31,3 +31,7 @@
 &emsp;&emsp;&ensp; * Docker <br>
 &emsp;&emsp;&ensp; * Coolify <br>
 &emsp;&emsp;&ensp; * IIS Server <br> 
+
+#### &emsp; OS:
+&emsp;&emsp;&ensp; * Linux (Ubuntu) <br>
+&emsp;&emsp;&ensp; * macOS <br>
