@@ -1,37 +1,158 @@
-# Welcome Dear... 👋
+# Hi, I'm Mert Akdemir 👋
 
-### ABOUT ME:
-* I have 4+ years(2+ years professional) software experiences. (Last Update: 2026)
-* I have been "Computer Engineering" student who have studied at "3" different school and have "3.8 ECTS".
+### Software Engineer | Backend Developer (.NET & Node.js) | Database Engineer
 
-### EDUCATIONS:
-1) Konya Necmettin Erbakan University / Turkey &nbsp;&nbsp; Computer Engineering
-2) Kutahya Dumlupinar University / Turkey &emsp;&emsp;&ensp;&nbsp;&nbsp; Computer Engineering
-3) Bandirma Onyedi Eylul University / Turkey &emsp;&emsp; Computer Engineering
+Final-year Computer Engineering student with **1.5+ years of professional software development experience** in backend development, database engineering, and enterprise application development.
 
-### MAIN ABILITIES: 
-#### &emsp; BACKEND:
-&emsp;&emsp;&ensp; * .NET Core <br>
-&emsp;&emsp;&ensp; * Node.js <br>
-&emsp;&emsp;&ensp; * Express.js <br>
+I specialize in building scalable backend systems using **ASP.NET Core**, **Node.js**, **SQL Server**, **PostgreSQL**, **Docker**, **RabbitMQ**, and **Microservices Architecture**.
 
-#### &emsp; FRONTEND:
-&emsp;&emsp;&ensp; * React.js <br>
-&emsp;&emsp;&ensp; * TypeScript <br>
-&emsp;&emsp;&ensp; * JavaScript <br>
-&emsp;&emsp;&ensp; * JQuery <br>
-&emsp;&emsp;&ensp; * HTML <br>
-&emsp;&emsp;&ensp; * CSS <br>
+My primary interests include:
 
-#### &emsp; DATABASE:
-&emsp;&emsp;&ensp; * Microsoft SQL Server (MSSQL) <br>
-&emsp;&emsp;&ensp; * MongoDB <br>
+* Backend Engineering
+* Database Design & Optimization
+* Distributed Systems
+* Microservices Architecture
+* AI-Powered Systems
+* Computer Vision Applications
 
-#### &emsp; DEVOPS:
-&emsp;&emsp;&ensp; * Docker <br>
-&emsp;&emsp;&ensp; * Coolify <br>
-&emsp;&emsp;&ensp; * IIS Server <br> 
+---
 
-#### &emsp; OS:
-&emsp;&emsp;&ensp; * Linux (Ubuntu) <br>
-&emsp;&emsp;&ensp; * macOS <br>
+## 🚀 About Me
+
+* 🎓 Final-year Computer Engineering student (GPA: **3.80 / 4.00**)
+* 🏆 Department Valedictorian at **three different universities**
+* 🏆 1st Place – **Teknofest International Free Mission UAV Competition**
+* 💼 1.5+ years of professional software development experience
+* 🏛️ Lead developer of a production university platform actively used by academic staff
+* 📊 Experienced in large-scale database design, ETL processes, indexing, and performance optimization
+* 🌍 Open to remote, hybrid, and relocation opportunities
+
+---
+
+## 💻 Tech Stack
+
+### Backend
+
+* ASP.NET Core Web API
+* ASP.NET Core MVC
+* Node.js
+* Express.js
+* Entity Framework Core
+* Dapper
+
+### Databases
+
+* Microsoft SQL Server
+* PostgreSQL
+* MongoDB
+* MySQL
+
+### Architecture
+
+* Microservices
+* Clean Architecture
+* SOLID Principles
+* RESTful APIs
+* Dependency Injection
+
+### DevOps & Infrastructure
+
+* Docker
+* RabbitMQ
+* Redis
+* IIS
+* Nginx
+* Linux
+
+### Frontend
+
+* React.js
+* TypeScript
+* JavaScript
+* HTML
+* CSS
+* jQuery
+
+### Other Technologies
+
+* Python
+* OpenCV
+* YOLO
+* Parallel Programming
+* Computer Vision
+
+---
+
+## ⭐ Featured Projects
+
+### University Accreditation & Academic Assessment Platform
+
+Production platform actively used by approximately 100 academic staff members.
+
+**Technologies:** ASP.NET Core, SQL Server, IIS, JavaScript
+
+Highlights:
+
+* Sole developer of the platform
+* Handles over 1 million database records
+* Complex relational database architecture
+* Query optimization and indexing
+* Automated accreditation workflows
+
+---
+
+### AI Surveillance Platform
+
+Microservice-based AI surveillance platform currently under development.
+
+**Technologies:** .NET 9, PostgreSQL, RabbitMQ, Redis, Docker, Python, YOLO, OpenCV
+
+Highlights:
+
+* Distributed microservices architecture
+* Real-time video analytics
+* AI-powered object detection
+* Scalable backend services
+* Event-driven communication
+
+---
+
+### Real-Time Video Processing System
+
+Real-time video processing system developed using Producer-Consumer architecture.
+
+**Technologies:** C#, OpenCV, Haar Cascade, Multithreading
+
+Highlights:
+
+* Parallel processing architecture
+* Real-time face detection
+* Performance optimization
+* Resource-efficient processing pipeline
+
+---
+
+## 📈 Current Focus
+
+Currently working on:
+
+* AI Surveillance Platform
+* Microservices Architecture
+* PostgreSQL
+* Distributed Systems
+* Event-Driven Architectures
+* Backend Performance Optimization
+
+---
+
+## 📫 Contact
+
+📧 Email: [mert.akdemir.info@gmail.com](mailto:mert.akdemir.info@gmail.com)
+
+💻 GitHub: github.com/miarmely
+
+🌍 Location: Turkey
+
+---
+
+> "Building scalable systems, designing efficient databases, and solving complex backend challenges."
