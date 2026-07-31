@@ -2,7 +2,7 @@
 
 ### Software Engineer | Backend Developer (.NET & Node.js) | Database Engineer
 
-Final-year Computer Engineering student with **1.5+ years of professional software development experience** in backend development, database engineering, and enterprise application development.
+Graduated Computer Engineering student with **1.5+ years of professional software development experience** in backend development, database engineering, and enterprise application development.
 
 I specialize in building scalable backend systems using **ASP.NET Core**, **Node.js**, **SQL Server**, **PostgreSQL**, **Docker**, **RabbitMQ**, and **Microservices Architecture**.
 
