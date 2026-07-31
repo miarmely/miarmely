@@ -19,7 +19,7 @@ My primary interests include:
 
 ## 🚀 About Me
 
-* 🎓 Final-year Computer Engineering student (GPA: **3.80 / 4.00**)
+* 🎓 Graduated Computer Engineering student (GPA: **3.80 / 4.00**)
 * 🏆 Department Valedictorian at **three different universities**
 * 🏆 1st Place – **Teknofest International Free Mission UAV Competition**
 * 💼 1.5+ years of professional software development experience
